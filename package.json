@@ -24,6 +24,6 @@
     "eslint-plugin-vue": "^4.0.0"
   },
   "engines": {
-    "node": "4.2.3"
+    "node": "6.14.1"
   }
 }
